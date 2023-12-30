@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "almadina-steel.com",
+  "Id": "b131f0d2-64e1-4d7c-a93a-6a930113810c"
+}
